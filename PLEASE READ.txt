@@ -1,1 +1,0 @@
-This was a game that i made using pygame module along tutorial from youtuber called Tech With Tim. 
